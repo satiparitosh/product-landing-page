@@ -1,0 +1,41 @@
+#imagelogo{
+    width:10%;
+    text-align: center;   
+}
+#header-img{
+    width:50%;
+}
+#inner{
+    
+    width:80%;
+    text-align:center;
+    padding:5%;
+}
+.row{
+    padding:5%;
+}
+.col-sm-3{
+    padding:1%;
+    text-align:center;
+}
+.col-sm-3 img{
+    width:50%;
+}
+@media (max-width:600px){
+    .col-xs-12 h2,p{
+        text-align:center;
+    }
+}
+.container #innervideocontainer{
+    text-align:center;
+    padding:1%;
+}
+#productdetails{
+    text-align:center;
+}
+.list-group .list-group-item{
+    border-top:none;
+}
+form #email{
+    width:50%;
+}
